@@ -1,0 +1,11 @@
+deepface==0.0.79
+opencv-python==4.8.0.76
+numpy==1.26.4
+tensorflow==2.12.0
+keras==2.12.0
+tf-keras
+pyttsx3
+SpeechRecognition
+pyaudio
+pywhatkit
+wikipedia
